@@ -192,34 +192,6 @@ Ouvre automatiquement `http://localhost:8501`
 
 ---
 
-## Structure du projet : 
-medical_ai_project/
-│
-├── data/
-│   ├── train/
-│   │   ├── NORMAL/
-│   │   └── PNEUMONIA/
-│   └── test/
-│       ├── NORMAL/
-│       └── PNEUMONIA/
-│
-├── src/
-│   ├── model.py       # Architecture ResNet-18
-│   ├── utils.py       # Chargement données + transforms
-│   ├── train.py       # Boucle d'entraînement
-│   └── predict.py     # Inférence sur une image
-│
-├── app/
-│   └── streamlit_app.py   # Interface médicale
-│
-├── models/
-│   └── model.pth          # Meilleurs poids sauvegardés
-│
-├── reports/               # Rapports PDF générés
-├── requirements.txt
-└── README.md 
----
-
 ##  Pistes d'amélioration
 
 | Amélioration                  | Impact attendu                         |
