@@ -130,7 +130,7 @@ Guangzhou Women and Children's Medical Center
 | 1     | 0.3084    | 87.01%    | 0.1912   | 94.16%  |
 | 2     | 0.1967    | 91.92%    | 0.1625   | 94.35%  |
 | 4     | 0.1703    | 93.46%    | 0.1477   | 94.73%  |
-| 6     | 0.1372    | 94.65%    | 0.1233   | **95.11%** ✅ |
+| 6     | 0.1372    | 94.65%    | 0.1233   | **95.11%**  |
 | 10    | 0.1302    | 94.87%    | 0.1489   | 94.73%  |
 
 > Le meilleur modèle est sauvegardé à l'**Epoch 6** avec
@@ -220,7 +220,7 @@ medical_ai_project/
 └── README.md 
 ---
 
-## 🔬 Pistes d'amélioration
+##  Pistes d'amélioration
 
 | Amélioration                  | Impact attendu                         |
 |-------------------------------|----------------------------------------|
@@ -234,7 +234,7 @@ medical_ai_project/
 
 ---
 
-## 📚 Références scientifiques
+##  Références scientifiques
 
 - **He et al. (2016)** — *Deep Residual Learning for Image Recognition*
   [arXiv:1512.03385](https://arxiv.org/abs/1512.03385)
@@ -254,5 +254,5 @@ medical_ai_project/
 
 
 <p align="center">
-  Développé avec ❤️ · PyTorch · Streamlit · ResNet-18
+  Développé avec : · PyTorch · Streamlit · ResNet-18
 </p>
